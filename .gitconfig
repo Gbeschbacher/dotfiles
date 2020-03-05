@@ -1,0 +1,5 @@
+[user]
+	email = georg.eschbacher@atalanda.com
+	name = Georg Eschbacher
+[core]
+	excludesfile = /home/gbeschbacher/.gitignore
